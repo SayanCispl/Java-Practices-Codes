@@ -4,7 +4,7 @@ class Account{
     public String Name;
     protected String Email;
     private String Password;
-    //Getter and setter
+    //Getter and setter method
     public String getPassword(){
         return this.Password;
     }
